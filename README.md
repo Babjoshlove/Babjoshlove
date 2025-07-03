@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Babjoshlove 👋
 
-<!--
-**Babjoshlove/Babjoshlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Software Developer** passionate about building robust backend APIs, contributing to open-source, and making tech more inclusive and accessible for everyone.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently honing my skills in **Python**, **Node.js**, and **Django**.
+- 🛠️ Love creating backend systems and full-stack apps.
+- 🌍 Advocate for diversity, inclusion, and accessibility in tech.
+- 🤝 Open-source enthusiast—always looking for meaningful projects to support!
+
+## 🌟 Recent Project
+
+**Guitar app**  
+I am building a full-stack app that make guitar fun and easy to learn with alot of collabrations from Pro
+## 🧰 Tech Stack
+
+## 🌱 Goals
+
+- 📚 Grow as a backend and full-stack developer
+- 🏗️ Contribute to more open-source projects
+- 💡 Make technology a place for everyone—no barriers!
+
+## 📫 Get In Touch
+
+- **Email:** Bamideleifeoluwajoshua@gmail.com
+- **LinkedIn:** [bamidele-olalekan-joshua-121518286](https://www.linkedin.com/in/bamidele-olalekan-joshua-121518286)
+- **X (Twitter):** [@Babjosh_love](https://x.com/Babjosh_love)
+
+---
+
+Let’s connect and build something amazing together! 😃
