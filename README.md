@@ -1,36 +1,74 @@
-Hi, I'm <Bamidele Olalekan Joshua>! 👋
+Hi, I'm Bamidele (Babjoshlove) 👋
 
-![<Babjoshlove>'s Stats](https://github-readme-stats.vercel.app/api?username=<Babjoshlove>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I'm a Frontend Developer who loves turning designs into delightful, accessible user experiences. I build responsive, performant interfaces with a focus on usability and inclusive design.
 
-# Hi there, I'm Babjoshlove 👋
+🚀 What I Do
 
-I'm a **Junior Software Developer** passionate about building robust backend APIs, contributing to open-source, and making tech more inclusive and accessible for everyone.
+🌱 Currently sharpening skills in React, TypeScript, and modern CSS.
 
-## 🚀 What I Do
+🎨 Build polished UI components, animations, and responsive layouts.
 
-- 🌱 Currently honing my skills in **Python**, **Node.js**, and **Django**.
-- 🛠️ Love creating backend systems and full-stack apps.
-- 🌍 Advocate for diversity, inclusion, and accessibility in tech.
-- 🤝 Open-source enthusiast—always looking for meaningful projects to support!
+♿ Advocate for accessibility (a11y) and inclusive design.
 
-## 🌟 Recent Project
+🤝 Love collaborating on open-source frontends and improving UX.
 
-**Guitar app**  
-I am building a full-stack app that make guitar fun and easy to learn with alot of collabrations from Pro
-## 🧰 Tech Stack
+🌟 Recent Project
 
-## 🌱 Goals
+KYNDA-Workspace/Vanilla-Frontend
+A clean and functional vanilla JavaScript frontend built for the KYNDA Workspace ecosystem.
+Focused on:
 
-- 📚 Grow as a backend and full-stack developer
-- 🏗️ Contribute to more open-source projects
-- 💡 Make technology a place for everyone—no barriers!
+modular JS architecture
 
-## 📫 Get In Touch
+reusable UI components
 
-- **Email:** Bamideleifeoluwajoshua@gmail.com
-- **LinkedIn:** [bamidele-olalekan-joshua-121518286](https://www.linkedin.com/in/bamidele-olalekan-joshua-121518286)
-- **X (Twitter):** [@Babjosh_love](https://x.com/Babjosh_love)
+optimized DOM interactions
 
----
+responsive layout and modern styling
+This project showcases your ability to build structured, scalable frontends without relying on heavy frameworks.
 
-Let’s connect and build something amazing together! 😃
+🧰 Frontend Tech Stack
+
+HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+Frameworks & Libraries: React (for other projects)
+
+Styling: Tailwind CSS, CSS Modules, Sass
+
+State & Data: React Context, Redux (familiar), React Query
+
+Build & Tooling: Vite, Webpack, ESLint, Prettier
+
+Testing: Jest, React Testing Library, Cypress
+
+Deployment: Vercel, Netlify
+
+🌱 Goals
+
+✨ Master advanced React patterns and TypeScript design
+
+⚙️ Build reusable component libraries and design systems
+
+🔁 Contribute to frontend open-source projects
+
+♿ Build more accessible interfaces for everyone
+
+💡 What I Bring
+
+Strong problem-solving and debugging skills
+
+Attention to detail for pixel-perfect UI
+
+Good communication and teamwork
+
+Passion for learning and improving user experience
+
+📫 Get In Touch
+
+Email: Bamideleifeoluwajoshua@gmail.com
+
+LinkedIn: bamidele-olalekan-joshua-121518286
+
+X (Twitter): @Babjosh_love
+
+GitHub: Babjoshlove
